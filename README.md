@@ -1,18 +1,47 @@
+![Envocis-Github Banner](https://user-images.githubusercontent.com/109473255/179461061-5fffc9ea-3906-4e3a-8856-0682e4df64a8.png)
+
 <h1 align="center">Hi 👋, Welcome to the Envocis family!</h1>
 <h3 align="center">An Ed-Tech startup striving hard to provide wisdom to youth and create tools to assist the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=envocis&label=Profile%20views&color=0e75b6&style=flat" alt="envocis" /> </p>
 
+
+<!--WHAT WE ARE-->
 <h3 align="left">What we are?</h3>
 <p align="left">
-  TechWave is an Ed-tech startup aiming to provide industrial training courses to students in new technologies. It aims to provide quality education in the field of  Python, Machine Learning, Deep Learning, Artificial Intelligence and Web Development. It is specially designed to provide hands-on experience and help students build products and projects to solve real-life problems.
+  Envocis is an Ed-tech startup aiming to provide industrial training courses to students in new technologies. It aims to provide quality education in the field of  Python, Machine Learning, Deep Learning, Artificial Intelligence and Web Development. It is specially designed to provide hands-on experience and help students build products and projects to solve real-life problems.
  </p>
 
+
+<!--WHAT WE WANT TO ACHIEVE-->
 <h3 align="left">What do we want to achieve?</h3>
 <p align="left">
   The main aim of Envocis is to bridge the gap between theoretical and programmatic knowledge and understand the needs of the industry. We offer training sessions and support to the students We want to encourage people to focus on projects having the capability to get launched in the market.
  </p>
- 
+
+
+<!--OUR VISION-->
+<h3 align="left"> Our vision</h3>
+<p align ="left">We envision a world in which each student receives an effective, equitable, and engaging experience during their industrial training and they are motivated towards research in new technology and promoting the use of assistive technology.
+</p>
+
+
+
+<!--OUR MISSION-->
+<h3 align ="left"> Our mission </h3>
+<p align="left">
+We strive to offer our students quality industrial training with the following features 
+<li>Easy to understand </li>
+<li>Affordable price </li>
+<li>LIVE classes </li>
+<li>Lectures under specialized Mentor</li>
+<li>Hands-on projects.</li>
+<li>Assistive tools for social benefits</li>
+<li>Assured internship</li>
+</p>
+
+
+<!--WHY US?-->
 <h3 align="left">Why us?</h3>
 <p align="left">
   Envcois is not just any other course provider. Our vision is to serve you the best. Here's why Envocis is different Our courses are for everyone. From a complete beginner to a learning enthusiast our courses provide learning to students at all levels. We start with very basic and reach a level where students can make good projects on their own.
